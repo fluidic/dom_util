@@ -1,7 +1,7 @@
 name: dom_util
 description: Utilities for working with DOM.
 version: 0.1.0
-#author: Your Name <email@example.com>
+author: Fluidic Team <dev@fluidic.io>
 homepage: https://github.com/fluidic/dom_util
 
 environment:
